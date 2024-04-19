@@ -13,9 +13,12 @@
     "@clerk/localizations": "^1.28.3",
     "@clerk/nextjs": "^4.29.12",
     "@clerk/types": "^3.63.1",
+    "@types/mapbox-gl": "^3.1.0",
+    "mapbox-gl": "^3.3.0",
     "next": "14.2.1",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "react-map-gl": "^7.1.7"
   },
   "devDependencies": {
     "@types/node": "^20",
